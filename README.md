@@ -10,4 +10,4 @@ Simple bio pages for you !
 
 ## AKITA.REST
 Open source projects for you !
-# ![Akita](https://avatars.githubusercontent.com/u/96380321)
+# ![Akita](https://avatars.githubusercontent.com/u/96380321?s=200&v=4)
