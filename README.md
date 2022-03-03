@@ -4,6 +4,8 @@ I'm [wynn](https://wynn.rest) (16 y.o) ! :sunglasses:
 
 I'm slowly but surely trying to learn html :ghost:
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wynnmoment&repo=github-readme-stats)](https://github.com/wynnmoment/github-readme-stats)
+
 ## [MELON.REST](https://melon.rest)
 Simple bio pages for you !
 # ![Melon](https://cdn.discordapp.com/avatars/921116870730465380/6d5e22b01f2069b79074d0b3978ed5b9.webp)
